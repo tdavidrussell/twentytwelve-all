@@ -1,0 +1,85 @@
+/*
+ * Twenty Twelve All
+ *
+ * @category            WordPress_Theme
+ * @package             Twenty_Twelve_All
+ * @author              Tim Russell <githubber@timrussell.com>
+ * @author              Tim Russell <tim@ragingone.com>
+ * @copyright           Copyright (c) 2014.
+ * @license             GPL-2.0+
+ *
+ * @wordpress-theme
+ *
+ * Theme Name:          Twenty Twelve All
+ * Theme URI:           http://www.ragingone.com/wordpress-themes/
+ * Author:              Tim Russell
+ * Author URI:          http://timrussell.com/wordpress-themes/
+ * Description:         Child Theme created by Tim Russell, Parent theme originally created by the WordPress team.
+ * Version:             20141220.1
+ * License:             GPL-2.0+
+ * License URI:         http://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain:         twentytwelve-all
+ * Domain Path:         /languages
+ *
+ * GitHub Plugin URI:   https://github.com/tdavidrussell/twentytwelve-all
+ * GitHub Branch:       master
+ *
+ * Tags: child-theme, black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+ *
+ * Template: twentytwelve
+ *
+ * Requires WP:         3.9
+ * Requires PHP:        5.3
+ *
+ * Support URI:         http://ragingone.com/support
+ * Documentation URI:   http://ragingone.com/codex
+ *
+ * Released under the GPL license
+ * http://www.opensource.org/licenses/gpl-license.php
+ *
+ * This is an add-on for WordPress
+ * http://wordpress.org/
+ *
+ * **********************************************************************
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * **********************************************************************
+*/
+
+/** import the parent css **/
+@import url("../twentytwelve/style.css");
+
+body .site {
+margin-top: 0;
+
+}
+.site-header {
+    padding: 0 0 1.71429rem 0;
+}
+.nav-menu{
+    
+}
+.main-navigation {
+    margin-top: 0.71429rem;
+    /* padding: 0 1.71429rem; */
+}
+.main-navigation ul.nav-menu, .main-navigation div.nav-menu > ul {
+     border: 1px solid #EDEDED;
+     border-radius: 14px;
+     background-color: #f8f8f8; 
+ 
+}
+.main-navigation li {
+    margin: 0 0.85714rem 0 0;
+
+    }
+.main-navigation li a {
+    padding-left: 1.71429rem;
+}    
