@@ -9,14 +9,14 @@
  * @since 20160104.1
  *
  * @category            WordPress_Theme
- * @package             Twenty_Twelve_Base
+ * @package             Twenty_Twelve_All
  * @subpackage          theme
  */
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'ROTW12ALL_VERSION', '20160105.2' );
+define( 'ROTW12ALL_VERSION', '20160108.2' );
 define( 'ROTW12ALL_CDIR', get_stylesheet_directory() ); // if child, will be the file path, with out backslash
 define( 'ROTW12ALL_CURI', get_stylesheet_uri() ); // URL to the theme directory, no back slash
 
