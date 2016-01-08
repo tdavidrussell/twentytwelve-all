@@ -22,14 +22,14 @@ Please review the functions.php and comment out the items not needed.
 
 ### Upload ###
 
-1. Download the [latest release](https://github.com/tdavidrussell/twentytwelve-dev-base) from GitHub.
+1. Download the [latest release](https://github.com/tdavidrussell/twentytwelve-all/archive/master.zip) from GitHub.
 2. Go to the __Appearance &rarr; Themes &rarr; Add New__ screen in your WordPress admin panel and click the __Upload__ tab at the top.
 3. Upload the zipped archive.
 4. Click the __Activate Theme__ link after installation completes.
 
 ### Manual ###
 
-1. Download the [latest release](https://github.com/tdavidrussell/twentytwelve-dev-base) from GitHub.
+1. Download the [latest release](https://github.com/tdavidrussell/twentytwelve-all/archive/master.zip) from GitHub.
 2. Unzip the archive.
 3. Copy the folder to ' /wp-content/themes/ '.
 4. Go to the __Appearance &rarr; Themes__ screen in your WordPress admin panel and click the __Activate__ button on Twenty Twelve All theme.
