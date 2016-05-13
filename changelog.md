@@ -1,5 +1,8 @@
 Changelog
 
+#### 20160513.1
+* Updated: code standardization
+
 #### 20160108.1
 * Updated: PHPDoc for file descriptions
 

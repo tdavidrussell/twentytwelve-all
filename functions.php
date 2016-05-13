@@ -16,19 +16,19 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'ROTW12ALL_VERSION', '20160108.2' );
+define( 'ROTW12ALL_VERSION', '20160513.2' );
 define( 'ROTW12ALL_CDIR', get_stylesheet_directory() ); // if child, will be the file path, with out backslash
 define( 'ROTW12ALL_CURI', get_stylesheet_uri() ); // URL to the theme directory, no back slash
 
 remove_action( 'wp_head', 'wp_generator' );
 
 // Clean up the <head>
-function rotw12all_removeHeadLinks() {
+function ro_removeHeadLinks() {
 	remove_action( 'wp_head', 'rsd_link' );
 	remove_action( 'wp_head', 'wlwmanifest_link' );
 }
 
-add_action( 'init', 'rotw12all_removeHeadLinks' );
+add_action( 'init', 'ro_removeHeadLinks' );
 
 
 ?>
