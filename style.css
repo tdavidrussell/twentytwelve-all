@@ -15,7 +15,7 @@
  * Author:              Tim Russell
  * Author URI:          http://timrussell.com/
  * Description:         Child Theme, Theme originally created by the WordPress team.
- * Version:             20160513.1
+ * Version:             20160517.1
  * License:             GPL-2.0+
  * License URI:         http://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:         twentytwelve-all
@@ -54,7 +54,7 @@
 */
 
 /** import the parent css **/
-@import url("../twentytwelve/style.css");
+/* @import url("../twentytwelve/style.css"); */
 
 body .site {
 margin-top: 0;
@@ -70,12 +70,14 @@ margin-top: 0;
     margin-top: 0.71429rem;
     /* padding: 0 1.71429rem; */
 }
+/*
 .main-navigation ul.nav-menu, .main-navigation div.nav-menu > ul {
      border: 1px solid #EDEDED;
      border-radius: 14px;
      background-color: #f8f8f8; 
  
 }
+*/
 .main-navigation li {
     margin: 0 0.85714rem 0 0;
 

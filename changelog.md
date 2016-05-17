@@ -1,5 +1,11 @@
 Changelog
 
+
+#### 20160517.1
+* Change: Added cleanup for html head tag
+* Change: removed the pingback link in head tag header.php
+* Change: move the menu above the header and site name area
+
 #### 20160513.1
 * Updated: code standardization
 
