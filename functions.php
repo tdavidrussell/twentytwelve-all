@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'ROTW12ALL_VERSION', '20160517.2' );
+define( 'ROTW12ALL_VERSION', '20160715.2' );
 define( 'ROTW12ALL_CDIR', get_stylesheet_directory() ); // if child, will be the file path, with out backslash
 define( 'ROTW12ALL_CURI', get_stylesheet_uri() ); // URL to the theme directory, no back slash
 
