@@ -1,6 +1,9 @@
 Changelog
 
 
+#### 20160715.1
+* Update: updated theme description
+
 #### 20160517.1
 * Change: Added cleanup for html head tag
 * Change: removed the pingback link in head tag header.php
